@@ -1,18 +1,27 @@
 *************************************************************
-** INSTRUCTIONS ON HOW TO RUN THE RECIPE SEARCH ENGINE APP **
+ **INSTRUCTIONS ON HOW TO RUN THE RECIPE SEARCH ENGINE APP**
 *************************************************************
 // NOTE : The computer must have node / npm installed to run the website //
 
+To install npm : run this code in your command line: 
+```
+npm install npm@latest -g
+```
 1. On the github repository home page, download the files as zip file
 2. Extract the whole 'Forkify-master' folder into the desired path
 3. With your command line interface, go inside the 'Forkify-master' folder
-4. Run this command : npm install 
-5. Run this command : npm run start
-
+4. Run this command : 
+    ```
+    npm install 
+    ```
+5. Run this command : 
+    ```
+    npm run start
+    ```
 The website should now be running in your local server on your default browser. 
 
 *******************************
-** ABOUT THE WEBSITE FORKIFY **
+**ABOUT THE WEBSITE FORKIFY**
 *******************************
 
 Forkify is a recipe search engine that was part of the final project in Jonas Schmedtmann's Udemy course named "Learn Modern JavaScript". The link to the course : https://www.udemy.com/the-complete-javascript-course/
